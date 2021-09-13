@@ -2,9 +2,6 @@
   "name": "@hagishi/kakumei-ui",
   "version": "0.0.4",
   "main": "src/components/index.ts",
-  "files": [
-    "src/components/*"
-  ],
   "babelMacros": {
     "twin": {
       "preset": "styled-components"
