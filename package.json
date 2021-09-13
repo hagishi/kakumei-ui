@@ -3,7 +3,7 @@
   "version": "0.0.3",
   "main": "src/components/index.ts",
   "files": [
-    "components/*"
+    "src/components/*"
   ],
   "babelMacros": {
     "twin": {
